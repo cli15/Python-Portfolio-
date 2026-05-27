@@ -1,6 +1,5 @@
 # Python-Portfolio-
 AP CSP Projects 
-handling.
 
 Portillo's Portfolio: Python Projects & Data Filters
 Welcome to my first programming portfolio! This repository is a collection of 5 distinct Python applications that demonstrate my foundational programming skills. These projects showcase my ability to handle user inputs, implement conditional logic, mimic real-world systems, and—most importantly—efficiently filter large data sets.
